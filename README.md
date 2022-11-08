@@ -26,7 +26,10 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL%20-%23150458.svg?&style=flat&logo=postgresql)&nbsp;
-
+![GCP](https://img.shields.io/badge/GCP%20-%23150458.svg?&style=flat&logo=googlecloud)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka%20-%23150458.svg?&style=flat&logo=apachekafka)&nbsp;
+![Docker](https://img.shields.io/badge/Docker%20-%23150458.svg?&style=flat&logo=docker)&nbsp;
+![Ray](https://img.shields.io/badge/Ray%20-%23150458.svg?&style=flat&logo=ray)&nbsp;
 ### 📫 &nbsp; How to reach me:
 
 
