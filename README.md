@@ -7,6 +7,7 @@
 💡 &nbsp; I am a deep learning engineer and researcher at siterecon,\
 💻 &nbsp; I am currently working on semantic segmentation of remote sensing imagery.\
 🎓 &nbsp; I graduated form B.K Birla Institute of Technology, Pilani (B.Tech, Computer Science and Engineering, Batch of 2013).\
+🪂 &nbsp; PhD Dropout from University of Utah.\
 📒 &nbsp; Checkout my projects in pinned repositories below.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 📄 &nbsp;You can check my [Resume](https://anukoolpurohit.github.io/Resume.pdf) for more details about work experience.
